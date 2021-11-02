@@ -35,7 +35,7 @@ And so many more!!
 Download the dataset for this project from following Link -
 * [Zomato Bangalore Restaurants](https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants/download)
 
-# 🏽‍ Data Analysis
+# 📚 Data Analysis
 In the datasets, we are provided with 17 columns(Features) of data.
 
 * **url** : Contains the url of the restaurant on the Zomato Website.
@@ -54,3 +54,25 @@ In the datasets, we are provided with 17 columns(Features) of data.
 * **listed_in(city)** : Contains the neighborhood in which the restaurant is listed.
 
 Out of the 17 features given in the datasets, 04 are Continuous and 13 (including the target variable) are Categorical features.
+
+# 🖥️ Technologies:
+## 🛠️ Tools Used
+* Jupyter Notebook is used as IDE.
+* Pandas and NumPy are used for Data Manipulation & Pre-processing and Mathematical functions respectively.
+* For visualization of the plots, Matplotlib, Seaborn, Plotly are used.
+* Geopy and Folium libraies were used to perform Spatial Analysis.
+* GitHub is used as version control system
+
+# 🎉 Tasks performed under Spatial Analysis:
+* Extract the **"Latitude"** and **"Longitude"** w.r.t. different Locations using Python's ***Geopy*** Library.
+* Generated a **"BaseMap"** of Bangalore using Python's ***Folium*** Library.
+* Plotted a HeatMap based of variety of Use Cases with the help of Python's ***Folium "HeatMap" Plugins.***
+* Performed **"Marker Cluster Analysis"** on top of the **"HeatMap"** using Python's ***Folium "FastMarkerCluster" Plugins.***
+
+# 🏽‍ Some Exciting Glimpse of the Visuals:
+![Glimpse 1](https://user-images.githubusercontent.com/84115928/139532704-82c5ed9a-3019-4689-bda8-4bdf476c9728.gif)
+
+For more details, please go Tableau Dashboard link given below -
+
+# 📋 Challenges Faced during this Project:
+* To know about What are the different kinds of challenges encountered during this project, do connect with me for more details.

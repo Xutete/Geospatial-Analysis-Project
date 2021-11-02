@@ -14,3 +14,43 @@
 ![zomato](https://user-images.githubusercontent.com/84115928/139818260-1d656ae6-8abb-455f-9c1a-5b036734e484.jpg)
 
 # 📝Problem Statement
+Analysis of the following is required by the Sales Director of Zomato Food Chain:
+
+    1. Most famous Restaurant Chains in Bangalore.
+    2. Analyse Restaurants which are Accepts Online Order and do not ones.
+    3. Highest Voted Restaurant.
+    4. Places with Maximum Number of Restaurants / Total Restaurants at different locations of Bangalore.
+    5. Total Number of variety of Cuisine Restaurants in Bangalore.
+    6. Relationship between "Approx Cost of 2 People" vs "Rating" for those Restaurant that Accepts "Online Order" and for those Restaurants that doesn't Accept "Online Order".
+    7. Is there any difference b/w 'Votes' and 'Restaurants' Accepting and Not Accepting "Online_Orders".
+    8. Identify Restaurants that are Budgeted Hotels as well as Affordable.
+    9. Restaurants having good Rating and Budgeted/Affordable too.
+    10. Most Foodie Areas of Bangalore.
+    11. Clutter of particular Cuisines in Bangalore. North Indian Restaurants, South Indian Restaurants, Biryani Cuisines.
+    12. Analyze where are the Restaurants with Most Average Ratings.
+
+And so many more!!
+
+# ⏳ Dataset
+Download the dataset for this project from following Link -
+* [Zomato Bangalore Restaurants](https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants/download)
+
+# 🏽‍ Data Analysis
+In the datasets, we are provided with 17 columns(Features) of data.
+
+* **url** : Contains the url of the restaurant on the Zomato Website.
+* **address** : Contains the Address of the restaurant in Bangalore.
+* **name** : Contains the Name of the restaurant.
+* **online_order** : Whether Online Ordering is available in the restaurant or not.
+* **book_table** : Table book option available or not.
+* **rate** : Contains the Overall Rating of the restaurant out of 5.
+* **votes** : Contains total number of ratings given for the restaurant.
+* **location** : Contains the neighborhood where the restaurant is located.
+* **rest_type** : Restaurant type.
+* **dish_liked** Dishes people liked in the restaurant.
+* **cuisines** : Food styles.
+* **approx_cost(for two people)** : Contains the approximate cost for the meal of two people.
+* **reviews_list** : Containing rating and review given by the customer.
+* **listed_in(city)** : Contains the neighborhood in which the restaurant is listed.
+
+Out of the 17 features given in the datasets, 04 are Continuous and 13 (including the target variable) are Categorical features.

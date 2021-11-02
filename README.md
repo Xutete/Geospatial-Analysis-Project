@@ -1,3 +1,4 @@
+
 # GeoSpatial Analysis - Zomato Data Analysis Project 🔥
 
 <p align="center">
@@ -62,6 +63,7 @@ Out of the 17 features given in the datasets, 04 are Continuous and 13 (includin
 * For visualization of the plots, Matplotlib, Seaborn, Plotly are used.
 * Geopy and Folium libraies were used to perform Spatial Analysis.
 * GitHub is used as version control system
+![image](https://user-images.githubusercontent.com/84115928/139908931-11089695-88cf-4e78-8a7a-44bc8d75a560.png)
 
 # 🎉 Tasks performed under Spatial Analysis:
 * Extract the **"Latitude"** and **"Longitude"** w.r.t. different Locations using Python's ***Geopy*** Library.
@@ -69,10 +71,31 @@ Out of the 17 features given in the datasets, 04 are Continuous and 13 (includin
 * Plotted a HeatMap based of variety of Use Cases with the help of Python's ***Folium "HeatMap" Plugins.***
 * Performed **"Marker Cluster Analysis"** on top of the **"HeatMap"** using Python's ***Folium "FastMarkerCluster" Plugins.***
 
-# 🏽‍ Some Exciting Glimpse of the Visuals:
+# 🎯 Some Exciting Glimpse of the Visuals:
+# 🌱 Some Exciting Glimpse of the Visuals:
 ![Glimpse 1](https://user-images.githubusercontent.com/84115928/139532704-82c5ed9a-3019-4689-bda8-4bdf476c9728.gif)
 
 For more details, please go Tableau Dashboard link given below -
 
 # 📋 Challenges Faced during this Project:
 * To know about What are the different kinds of challenges encountered during this project, do connect with me for more details.
+
+# 🎯 Shark_Incidents_Dashboard -
+- 🌱 You can have a look on Shark_Incidents_Dashboard [here.](https://public.tableau.com/views/UpdatedSharkIncidentDashboardByDataisGoodAcademy/SharkIncidentsAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+- **Note:** Make sure to open the Tableau Dashboard in Full-Screen Mode for a better experience otherwise there is a likelihood that you will end up with cropped visual.
+
+# 💡 Conclusions
+* With an average Age of 27, around 6000 incidents have happened.
+* Clearly from the 1990s, the incidents are on the rise.
+* 141 is the highest Number of Incidents that happened in a year and 21 is the highest Number of Fatalities.
+* From Fatality Ratio vs Shark Incidents, we can make inferences like - Shark Incidents for Great White Shark are much larger than all other Sharks.
+* Majority number of Incidents happened in the USA, but fatalities happened mostly in Australia.
+* Most incidents were caused by Swimming and Diving activity.
+* Male gender has gone through more incidents. However, in terms of the Fatality ratio, there is not much difference between both genders. Males have around 25.9% and Females have 20.2%.
+
+# 🎉 Help Me Improve
+Hello Mr. Reader, if you find any bug or anything else that could add more value in this project then please consider raising it to me I will address them asap.
+  
+# 📫 Feedback
+If you have any feedback, please reach out to me via [LinkedIn](https://www.linkedin.com/in/lokesh-attarde-145086141/)
+

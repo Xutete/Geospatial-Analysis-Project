@@ -63,7 +63,10 @@ Out of the 17 features given in the datasets, 04 are Continuous and 13 (includin
 * For visualization of the plots, Matplotlib, Seaborn, Plotly are used.
 * Geopy and Folium libraies were used to perform Spatial Analysis.
 * GitHub is used as version control system
-![image](https://user-images.githubusercontent.com/84115928/139908931-11089695-88cf-4e78-8a7a-44bc8d75a560.png)
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/84115928/139908931-11089695-88cf-4e78-8a7a-44bc8d75a560.png">
+</p>
 
 # 🎉 Tasks performed under Spatial Analysis:
 * Extract the **"Latitude"** and **"Longitude"** w.r.t. different Locations using Python's ***Geopy*** Library.
@@ -71,9 +74,15 @@ Out of the 17 features given in the datasets, 04 are Continuous and 13 (includin
 * Plotted a HeatMap based of variety of Use Cases with the help of Python's ***Folium "HeatMap" Plugins.***
 * Performed **"Marker Cluster Analysis"** on top of the **"HeatMap"** using Python's ***Folium "FastMarkerCluster" Plugins.***
 
-# 🎯 Some Exciting Glimpse of the Visuals:
 # 🌱 Some Exciting Glimpse of the Visuals:
-![Glimpse 1](https://user-images.githubusercontent.com/84115928/139532704-82c5ed9a-3019-4689-bda8-4bdf476c9728.gif)
+![Glimpse 1](https://user-images.githubusercontent.com/84115928/140026074-61d742db-5909-43bf-ae6f-b1586e9d73eb.gif)
+![Final Glimpse 2](https://user-images.githubusercontent.com/84115928/140026135-7d40a13e-4c76-47fc-b26b-81e4ab2bdefe.gif)
+![Final Glimpse 3](https://user-images.githubusercontent.com/84115928/140026180-d24ef4d3-c492-43f0-95f4-5f4cb65a0ea8.gif)
+  
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/84115928/140026316-9a502e15-e4b6-4e02-9a89-c09cde6776a3.gif">
+  <img width="640" height="384" src="https://user-images.githubusercontent.com/84115928/140026350-99fa7833-3959-4cb4-8ca9-c1817522d9f1.gif">
+</p>
 
 For more details, please go Tableau Dashboard link given below -
 
@@ -98,4 +107,3 @@ Hello Mr. Reader, if you find any bug or anything else that could add more value
   
 # 📫 Feedback
 If you have any feedback, please reach out to me via [LinkedIn](https://www.linkedin.com/in/lokesh-attarde-145086141/)
-

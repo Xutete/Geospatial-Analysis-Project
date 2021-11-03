@@ -84,23 +84,28 @@ Out of the 17 features given in the datasets, 04 are Continuous and 13 (includin
   <img width="533" height="320" src="https://user-images.githubusercontent.com/84115928/140026350-99fa7833-3959-4cb4-8ca9-c1817522d9f1.gif">
 </p>
 
-For more details, please go Tableau Dashboard link given below -
+For more details, please go through the Jupyter Notebook attached above.
 
 # 📋 Challenges Faced during this Project:
 * To know about What are the different kinds of challenges encountered during this project, do connect with me for more details.
 
-# 🎯 Shark_Incidents_Dashboard -
-- 🌱 You can have a look on Shark_Incidents_Dashboard [here.](https://public.tableau.com/views/UpdatedSharkIncidentDashboardByDataisGoodAcademy/SharkIncidentsAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
-- **Note:** Make sure to open the Tableau Dashboard in Full-Screen Mode for a better experience otherwise there is a likelihood that you will end up with cropped visual.
-
 # 💡 Conclusions
-* With an average Age of 27, around 6000 incidents have happened.
-* Clearly from the 1990s, the incidents are on the rise.
-* 141 is the highest Number of Incidents that happened in a year and 21 is the highest Number of Fatalities.
-* From Fatality Ratio vs Shark Incidents, we can make inferences like - Shark Incidents for Great White Shark are much larger than all other Sharks.
-* Majority number of Incidents happened in the USA, but fatalities happened mostly in Australia.
-* Most incidents were caused by Swimming and Diving activity.
-* Male gender has gone through more incidents. However, in terms of the Fatality ratio, there is not much difference between both genders. Males have around 25.9% and Females have 20.2%.
+
+* "Cafe Coffee Day" is on Peak. Next, We have "Onesta", followed by "Empire Restaurant" and so on.
+* "64.4%" Restaurants accepts Online Order whereas around "35.6%" Restaurants does not accepts Online Order.
+* Highest Voted Restaurant is "Onesta", followed by "Truffles" and "Empire Restaurant".
+* Widefield and BTM has the Maximum Number of Restaurants.
+* Most of the Highest Rated Restaurants Accepts "Online Order" and they are, of course, affordable whereas there are some Highest Rated Restaurants who do not Accepts "Online Order" and they are Expensive.
+* Average number of Votes for both Categories Varies because the Restaurant who's Accepting "Online Orders", get More "Votes" from Customers as there is a "Rating" window popping-up after each 'Order Place' from the "Zomato" Application.
+  That's Why Restaurants having 'Online Order' faciliy has "Maximum Number of Votes" compared to do not ones.
+* More than 50% of Restaurants having approximate cost for 2 people is less than "1000 Rs." and they are Affordable too in Bangalore.
+* Around "372" Restaurants are "Affordable" as well as they have good "Rating" I.e. greater than 4 out of 5.
+* "BTM", "5th Block", and "HSR" has the Most Number of Restaurants/Most Foodie Areas. "BTM" dominates the section by having around "5K" Restaurants.
+* In "South-East" Bangalore Region, We have "Maximum Number of North Indian Restaurants". Again in that Zone, We might have a "Maximum Number of North Indian People".
+* In "South-West" Bangalore Region, We have "Maximum Number of "South Indian Restaurants" followed by "Central" and "South-East" Bangalore.
+* Now, In terms of "Biryani", in "South" Bangalore Region, We have "Maximum Number of "Biryani cuisines Restaurants" followed by "South-West" and "Central" Bangalore.
+
+And so many more!!
 
 # 🎉 Help Me Improve
 Hello Mr. Reader, if you find any bug or anything else that could add more value in this project then please consider raising it to me I will address them asap.

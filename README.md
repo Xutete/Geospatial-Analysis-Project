@@ -81,7 +81,7 @@ Out of the 17 features given in the datasets, 04 are Continuous and 13 (includin
   
 <p align="center">
   <img src="https://user-images.githubusercontent.com/84115928/140026316-9a502e15-e4b6-4e02-9a89-c09cde6776a3.gif">
-  <img width="640" height="384" src="https://user-images.githubusercontent.com/84115928/140026350-99fa7833-3959-4cb4-8ca9-c1817522d9f1.gif">
+  <img width="533" height="320" src="https://user-images.githubusercontent.com/84115928/140026350-99fa7833-3959-4cb4-8ca9-c1817522d9f1.gif">
 </p>
 
 For more details, please go Tableau Dashboard link given below -
